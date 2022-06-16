@@ -54,9 +54,7 @@ function App() {
         <button onClick={fetchMoviesHandler}>Fetch Movies</button>
       </section>
 
-      <section>
-        {content}
-      </section>
+      <section>{content}</section>
     </React.Fragment>
   );
 }
