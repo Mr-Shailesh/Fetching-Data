@@ -1,2 +1,2 @@
 # Fetching-Data
-Fetching movies from the server.
+Fetching data from the server.
